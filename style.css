@@ -1,0 +1,146 @@
+#all {
+    border: white solid 10px;
+    height: 600px;
+    background-color: white;
+    width: 1040px;
+    
+}
+
+.lightpink {
+    border: white solid 10px;
+    height: 150px;
+    background-color: #F5C6D6;
+    width: 1020px;
+    
+
+}.hotpink {
+    border: white solid 10px;
+    height: 150px;
+    background-color: #EE2E84;
+    width: 1020px;
+    
+
+}.blue {
+    border: white solid 10px;
+    height: 150px;
+    background-color: #85CFD8;
+    width: 1020px;
+    
+
+}.green {
+    border: white solid 10px;
+    height: 150px;
+    background-color: #8DC63F;
+    width: 1020px;
+    
+
+}.orange {
+    border: white solid 10px;
+    height: 150px;
+    background-color: #E76E34;
+    width: 1020px;
+}
+
+
+@media (min-width: 768px){
+
+#all {
+    border: white solid 10px;
+    height: 600px;
+    background-color: white;
+    width: 1040px;
+    position: relative;
+}
+#lp {
+    border: white solid 0px;
+    height: 150px;
+    background-color: white;
+    width: 1040px;
+
+
+}
+#lp > div {
+    height: 150px;
+    width: 1020px;
+    background-color:#F5C6D6;
+    border: solid white 10px;
+
+}
+#hp {
+    border: white solid 0px;
+    height: 150px;
+    width: 1040px;
+    background-color:white;
+    position: absolute;
+    top: 170px;
+    display: flex;
+}
+
+#hp > div {
+    height: 150px;
+    width: 250px;
+    background-color:#EE2E84;
+    border: solid white 10px;
+
+}
+#bl {
+    border: white solid 0px;
+    height: 150px;
+    width: 1040px;
+    background-color:white;
+    position: absolute;
+    top: 340px;
+    display: flex;
+}
+#bl > div {
+    height: 150px;
+    width: 500px;
+    background-color:#85CFD8;
+    border: solid white 10px;
+
+}
+#gno {
+    border: white solid 0px;
+    height: 150px;
+    width: 1040px;
+    background-color:white;
+    position: absolute;
+    top: 510px;
+    display: flex;
+}
+.green {
+    height: 150px;
+    width: 750px;
+    background-color:#8DC63F;
+    border: solid white 10px;
+
+}
+.orange {
+    height: 150px;
+    width: 250px;
+    background-color:#E76E34;
+    border: solid white 10px;
+
+}
+}
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
